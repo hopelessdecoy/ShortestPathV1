@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1467012615 source:f:\paul birkholtz\portfolio\my projects\my programs\c++ programs\shortestpath v1\main.cpp
+	<iostream>
+	"pathFinder.h"
+
+1467012882 f:\paul birkholtz\portfolio\my projects\my programs\c++ programs\shortestpath v1\include\pathfinder.h
+
+1467012775 source:f:\paul birkholtz\portfolio\my projects\my programs\c++ programs\shortestpath v1\src\pathfinder.cpp
+	"pathFinder.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
